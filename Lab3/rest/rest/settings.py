@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'rest.wsgi.application'
 # https://docs.djangoproject.com/en/1.9/ref/settings/#databases
 
 DATABASES = {
-    # 'default': {
+    # 'local': {
     #     'ENGINE': 'django.db.backends.postgresql_psycopg2',
     #     'NAME': 'rest',
     #     'USER': 'rest',
