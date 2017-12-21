@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "age": {
+        "type": "number"
+      },
+      "name": {
+        "type": "string"
+      }
+    },
+    "required": ["name", "age"]
+  }
+}

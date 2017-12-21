@@ -1,0 +1,9 @@
+# Local development dependencies go here
+-r base.txt
+
+django-debug-toolbar
+django-crispy-forms
+ipdb
+django-extensions
+flake8
+mkdocs
